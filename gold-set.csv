@@ -1,0 +1,13 @@
+input_id,input_ref,reference_output,candidate_output,matt_descriptive_accuracy,matt_functional_usefulness,matt_concision,judge_a_descriptive_accuracy,judge_a_functional_usefulness,judge_a_concision,judge_b_descriptive_accuracy,judge_b_functional_usefulness,judge_b_concision
+INPUT-01,Golden retriever puppy lying in grass,"Golden retriever puppy lying in green grass, looking at the camera.",A cute dog lying in the grass outside.,1,1,2,1,1,2,1,1,2
+INPUT-02,Barista steaming milk at an espresso machine,Barista steaming milk at an espresso machine in a cafe.,Image of a person making coffee with a machine.,1,1,1,1,1,1,1,1,1
+INPUT-03,"Mountain lake at sunset, sun rays through clouds","Mountain lake at sunset, sun rays breaking through clouds over the water.",Mountain lake at sunset with dramatic clouds.,1,1,2,2,1,2,1,1,2
+INPUT-04,"Indoor farmers market, vegetable crates and shoppers",Shoppers browsing vegetable crates at an indoor farmers market.,People shopping for vegetables at an indoor market with crates of produce.,2,1,2,2,1,2,2,1,2
+INPUT-05,"City at night, traffic light trails and billboards",City street at night with traffic light trails and glowing billboards.,A city at night.,1,0,2,1,0,2,1,0,2
+INPUT-06,Child riding bicycle past colorful playground slides,Child riding a bicycle past colorful playground slides.,A kid on a bike near a playground.,2,1,2,1,1,2,2,1,2
+INPUT-07,Honey bee on a flower (macro),"Honey bee covered in pollen on a flower, extreme close-up.",Close-up of a bee on a yellow flower.,2,1,2,2,1,2,2,1,2
+INPUT-08,"MacBook, iPhone, and coffee cup on a table","MacBook, iPhone, and coffee cup arranged on a wooden table.","Overhead flat-lay of a laptop, smartphone, and coffee cup on a desk, styled workspace photography.",2,1,2,2,1,2,2,2,2
+INPUT-09,Ocean wave crashing,"Ocean wave crashing, white spray against deep blue water.",In this image we can see a large ocean wave crashing down with white foam spray everywhere.,2,1,1,2,1,1,2,1,2
+INPUT-10,Elderly couple walking together,"Elderly couple walking together outdoors, holding hands.",An old couple walking down a street together.,1,1,2,1,1,2,1,1,2
+INPUT-11,Red vintage convertible parked by a wooden fence,Red vintage convertible parked beside a wooden fence.,A beautiful shiny red vintage convertible car from the 1960s parked on the street next to a rustic wooden fence on a sunny day with a bright blue sky and fluffy white clouds overhead.,0,1,0,0,1,0,1,1,2
+INPUT-12,Hot air balloons over Cappadocia rock formations,Hot air balloons floating over Cappadocia's rock formations at dawn.,Colorful hot air balloons flying over rocky landscape.,1,1,2,1,1,2,1,1,2

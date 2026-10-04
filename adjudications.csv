@@ -1,0 +1,7 @@
+item,construct,verdict,action,addressed
+INPUT-03,descriptive_accuracy,grader error,Judge A scored the words; the money detail (sun rays) was missed. No rubric change.,yes
+INPUT-06,descriptive_accuracy,rubric ambiguity,Two reasonable graders split on whether 'colorful slides' is salient. v2 anchor: a missed salient detail caps accuracy at 1. Rubric bumped to v2.,yes
+INPUT-08,functional_usefulness,my grade was wrong,"Judge B was right: 'styled workspace photography' does signal the slide's remote-work theme. Corrected to 2, no rubric change.",yes
+INPUT-09,concision,grader error,Judge B scored a filler-opening output 2 on concision. Second data point for the verbosity-bias note.,yes
+INPUT-11,descriptive_accuracy,grader error,"Judge B credited invented details (1960s, blue sky). Judge prompt already forbids invention; flagged in readout, no rubric change.",yes
+INPUT-11,concision,grader error,Judge B scored a ~210-char padded output 2 on concision. Verbosity-bias note filed; Judge B blocked from concision until re-prompted.,yes

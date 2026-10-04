@@ -1,0 +1,17 @@
+input_id,input,source,reference_output,outcome,candidate_output,scenario_type,risk_tier,trace
+INPUT-01,Golden retriever puppy lying in grass,manual check,"Golden retriever puppy lying in green grass, looking at the camera.",,A cute dog lying in the grass outside.,photo,standard,
+INPUT-02,Barista steaming milk at an espresso machine,manual check,Barista steaming milk at an espresso machine in a cafe.,,Image of a person making coffee with a machine.,photo,standard,
+INPUT-03,"Mountain lake at sunset, sun rays through clouds",manual check,"Mountain lake at sunset, sun rays breaking through clouds over the water.",,Mountain lake at sunset with dramatic clouds.,photo,standard,"vision model call -> description: 'mountain lake at sunset, dramatic clouds'
+note: model never mentioned the sun rays breaking through the clouds,
+the salient detail in the reference output. No tool calls; single pass."
+INPUT-04,"Indoor farmers market, vegetable crates and shoppers",manual check,Shoppers browsing vegetable crates at an indoor farmers market.,,People shopping for vegetables at an indoor market with crates of produce.,photo,standard,
+INPUT-05,"City at night, traffic light trails and billboards",manual check,City street at night with traffic light trails and glowing billboards.,,A city at night.,photo,standard,
+INPUT-06,Child riding bicycle past colorful playground slides,manual check,Child riding a bicycle past colorful playground slides.,,A kid on a bike near a playground.,photo,deep,
+INPUT-07,Honey bee on a flower (macro),manual check,"Honey bee covered in pollen on a flower, extreme close-up.",,Close-up of a bee on a yellow flower.,photo,standard,
+INPUT-08,"MacBook, iPhone, and coffee cup on a table",manual check,"MacBook, iPhone, and coffee cup arranged on a wooden table.",,"Overhead flat-lay of a laptop, smartphone, and coffee cup on a desk, styled workspace photography.",photo,standard,
+INPUT-09,Ocean wave crashing,manual check,"Ocean wave crashing, white spray against deep blue water.",,In this image we can see a large ocean wave crashing down with white foam spray everywhere.,photo,light,
+INPUT-10,Elderly couple walking together,manual check,"Elderly couple walking together outdoors, holding hands.",,An old couple walking down a street together.,photo,deep,
+INPUT-11,Red vintage convertible parked by a wooden fence,manual check,Red vintage convertible parked beside a wooden fence.,,A beautiful shiny red vintage convertible car from the 1960s parked on the street next to a rustic wooden fence on a sunny day with a bright blue sky and fluffy white clouds overhead.,photo,standard,"vision model call -> description drafted from a generic 'vintage car' prior,
+not from the pixels: '1960s', 'blue sky', 'fluffy clouds' are not verifiable
+in the image. No grounding check ran before the output was finalized."
+INPUT-12,Hot air balloons over Cappadocia rock formations,manual check,Hot air balloons floating over Cappadocia's rock formations at dawn.,,Colorful hot air balloons flying over rocky landscape.,photo,standard,

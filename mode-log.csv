@@ -1,0 +1,24 @@
+date,artifact,step,mode,notes
+2026-10-02,concepts read,Step 0.1,Human-only,completed in training module
+2026-10-02,eval plan,Step 0.2,Human-only,completed in training module
+2026-10-02,tasks.csv,Step 1,Human+AI,completed in training module
+2026-10-02,rubric v1,Step 2,Human+AI,completed in training module
+2026-10-02,rubric v2,Step 3,Human+AI,completed in training module
+2026-10-02,read-through,Step 4,Human-only,completed in training module
+2026-10-02,gold_set.csv: matt_* grades,Step 5,Human-only,completed in training module
+2026-10-02,mode log entry,Step 6,Human-only,completed in training module
+2026-10-02,judge prompt v1,Step 7,Human+AI,completed in training module
+2026-10-02,gold_set.csv: judge_a_* grades,Step 8,AI-only,completed in training module
+2026-10-02,gold_set.csv: judge_b_* grades,Step 9,AI-only,completed in training module
+2026-10-02,independence check,Step 10,Human-only,completed in training module
+2026-10-02,agreement_report.txt,Step 11,Human+AI,completed in training module
+2026-10-02,kappa reading,Step 12,Human-only,completed in training module
+2026-10-02,triage ranking,Step 13,Human-only,completed in training module
+2026-10-02,adjudication verdict,Step 14,Human-only,completed in training module
+2026-10-02,rubric v3,Step 15,Human-only,completed in training module
+2026-10-02,agreement round 2,Step 16,Human+AI,completed in training module
+2026-10-02,position-bias note,Step 17,"AI-only exec, human read",completed in training module
+2026-10-02,verbosity-bias note,Step 18,"AI-only exec, human read",completed in training module
+2026-10-02,synthetic_tasks.csv,Step 19,Human+AI,completed in training module
+2026-10-02,dashboard,Step 20,Human+AI,completed in training module
+2026-10-02,summary,Step 21,Human-only,completed in training module
