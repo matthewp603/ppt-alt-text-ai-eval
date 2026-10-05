@@ -1,5 +1,5 @@
 GRADE-THE-GRADER: pairwise Cohen's kappa per construct (from training module workspace)
-Eval: Alt-text pilot (Matt's worked copy) · Date: 2026-10-03 · Target: kappa >= 0.60
+Eval: Alt-text pilot (Matt's worked copy) · Date: 2026-10-05 · Target: kappa >= 0.60
 ============================================================
 
 [descriptive_accuracy]
